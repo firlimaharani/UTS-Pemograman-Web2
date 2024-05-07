@@ -28,3 +28,5 @@ Manajemen kas RT adalah proses pengelolaan dan pengendalian dana tunai atau keua
 ![Screenshot (146)](https://github.com/firlimaharani/UTS-Pemograman-Web2/assets/130529482/7c408cf4-ca96-427f-8ea1-7b599ee21ef9)
 
 ![Screenshot (151)](https://github.com/firlimaharani/UTS-Pemograman-Web2/assets/130529482/2dffa821-f99d-4ed7-b1e9-8d1c1198e239)
+
+## SEKIAN, TERIMA KASIH
